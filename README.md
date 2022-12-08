@@ -1,7 +1,10 @@
 
-![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
 <h1 align="center">Hi !!, I am Nitesh Samaniya</h1>
+<!-- ![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png) -->
+<!-- <h1 align="center">Hi !!, I am Nitesh Samaniya</h1> -->
 <h3 align="center">A passionate Full-Stack developer from New Delhi, India</h3>
+
+![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
 
 <p align="center">An optimistic fun loving guy who likes to work in an challenging environment. Looking for a career that demands the best of my professional ability in terms of technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge. I am capable of developing websites using React.js & other well-known web development technologies</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitesh-Samaniya&label=Profile%20views&color=0e75b6&style=flat" alt="Nitesh-Samaniya" /> </p>

@@ -45,7 +45,7 @@
 <div align='center'>
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/nitesh-samaniya-5b2563233/)
-   <a href="[https://drive.google.com/uc?id=1-XCEzhMjrPIuctcDcL6dQ7AkNocQTmQD&export=download](https://drive.google.com/file/d/19h3iG7MlyhTYLzZhXyJJhmCph-KVhWC9/view?usp=sharing)" target="_blank" >
+   <a href="https://drive.google.com/uc?id=1-XCEzhMjrPIuctcDcL6dQ7AkNocQTmQD&export=download" target="_blank" >
    <img src="https://img.shields.io/badge/Resume-ffb005?style=for-the-badge&logo=Google%20Drive&logoColor=black&?labelColor=white" alt="Resume"/></a>
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://nitesh-samaniya.github.io/)
 

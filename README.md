@@ -25,7 +25,6 @@
     <br>
     My Portfolio: https://nitesh-samaniya.github.io/
     <br>
-    <br>
     My LinkedIn: https://www.linkedin.com/in/nitesh-samaniya-5b2563233/
     <br>
     Reach me at nitinsamaniya97@gmail.com

@@ -6,7 +6,7 @@
 
 ![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
 
-<p align="center">An optimistic fun loving guy who likes to work in an challenging environment. Looking for a career that demands the best of my professional ability in terms of technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge. I am capable of developing websites using React.js & other well-known web development technologies</p>
+<p align="center">An optimistic fun loving guy who likes to work in a challenging environment. Looking for a career that demands the best of my professional ability in terms of technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge. I am capable of developing websites using React.js & other well-known web development technologies</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitesh-Samaniya&label=Profile%20views&color=0e75b6&style=flat" alt="Nitesh-Samaniya" /> </p>
 
 
@@ -21,13 +21,16 @@
    <br> -->
    <!-- # 💫 About Me: -->
    <h2>💫 About Me: </h2>
-    I’m currently learning MERN Stack Development
+    An experienced Full Stack Web Developer with a proven track record in designing, implementing, and maintaining scalable web applications.
     <br>
     My Portfolio: https://nitesh-samaniya.github.io/
     <br>
-    How to reach me nitinsamaniya97@gmail.com
     <br>
-    Ask me about MongoDB,Express,React,NodeJS,JavaScript,ChakraUI
+    My LinkedIn: https://www.linkedin.com/in/nitesh-samaniya-5b2563233/
+    <br>
+    Reach me at nitinsamaniya97@gmail.com
+    <br>
+    Ask me about MongoDB, Express, React, NodeJS, JavaScript, ChakraUI, Mantine UI
     <br>
    <br>
 

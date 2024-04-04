@@ -12,8 +12,8 @@
 
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
-<!-- - 🌱 I’m currently learning MERN
-- 💬 Ask me about any MERN related stuff
+<!-- - 🌱 An experienced Full Stack Web Developer with a proven track record in designing, implementing, and maintaining scalable web applications.
+- 💬 Ask me about any MERN-related stuff
 - 📫 Reach me at nitinsamaniya997@gmail.com
    <br>
    <br>

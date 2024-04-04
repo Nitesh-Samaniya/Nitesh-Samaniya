@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi !!, I am Nitesh Samaniya</h1>
+<h1 align="center">Hi I am Nitesh Samaniya</h1>
 <!-- ![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png) -->
 <!-- <h1 align="center">Hi !!, I am Nitesh Samaniya</h1> -->
 <h3 align="center">A passionate Full-Stack developer from New Delhi, India</h3>
